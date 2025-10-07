@@ -5,10 +5,4 @@ for ($i = 100; $i <= 1000; $i++) {
 }
 ?>
 
-<?php
-for ($i = 100; $i <= 1000; $i++) {
-    if ($i % 2 == 0) { // kontrol: cek apakah genap
-        echo $i . "<br>";
-    }
-}
-?>
+
